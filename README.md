@@ -141,7 +141,7 @@ This transcript is your evidence that the agent behaves as specified.
 ### ✅ Submission checklist
 
 - [ ]  All four sections are present in the system prompt: Role, Review criteria, Output format, Guardrails
-- [ ]  Evidence of the three tests is included in `test-session.md`
+- [ ]  Evidence of the three tests is included in `test-session-1.md`
 
 ## 8. Submit your task
 
